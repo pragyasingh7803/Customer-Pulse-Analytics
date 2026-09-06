@@ -135,6 +135,8 @@ Customer-Shopping-Behavior-Analysis/
 │
 └── README.md
 
+---
+
 ## 🎯 Skills Demonstrated
 
 **Python • Pandas • EDA • Data Cleaning • Feature Engineering • SQL • PostgreSQL • SQLAlchemy • Customer Segmentation • Business Analysis • Power BI • Data Visualization**
