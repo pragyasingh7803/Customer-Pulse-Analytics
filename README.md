@@ -134,3 +134,15 @@ Customer-Shopping-Behavior-Analysis/
 │   └── customer_behavior_presentation.pdf
 │
 └── README.md
+
+## 🎯 Skills Demonstrated
+
+**Python • Pandas • EDA • Data Cleaning • Feature Engineering • SQL • PostgreSQL • SQLAlchemy • Customer Segmentation • Business Analysis • Power BI • Data Visualization**
+
+---
+
+## 👩‍💻 Author
+
+**Pragya Singh**
+
+*Aspiring Data Analyst | Python | SQL | PostgreSQL | Power BI*
